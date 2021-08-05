@@ -46,9 +46,9 @@ function translateEnemySign(){
     if(enemySign == 0){
         alert("Pilihan musuh adalah batu");
     }else if(enemySign == 1){
-        alert("Pilihan musush adalah kertas");
+        alert("Pilihan musuh adalah kertas");
     }else{
-        alert("Pilihan Musuh adalah gunting")
+        alert("Pilihan musuh adalah gunting")
     }
 }
 

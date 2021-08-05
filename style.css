@@ -5,12 +5,13 @@
 }
 
 body {
+    background-image: url("image/background.jpg");
     font-family: 'Allerta', sans-serif;
 }
 
 .content {
     max-width: 800px;
-    margin: 16px auto;
+    margin: 7rem auto;
 }
 
 header {
